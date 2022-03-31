@@ -97,3 +97,8 @@ The account and basket button do not work and arent even clickable i would make 
 You dont have the most recent phones here such as the samsung galaxy s22 you should add it king 
 
 overall it is a very good website and it looks very pleasing pop off king 
+
+
+### levente 
+
+It is colorful however you should make the login and the basket button interactable, also try to add a few more phones, it would make your website much more colorful.
