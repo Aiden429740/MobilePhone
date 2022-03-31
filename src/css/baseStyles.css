@@ -1,0 +1,52 @@
+/*-- Imports --*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+/*-- Default --*/
+body {
+    background-color: rgb( 255, 140, 0);
+
+    overflow-x: hidden;
+    padding: 0px;
+    margin: 0px;
+
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    
+    font-size: 1.35em;
+    color: white;
+}
+
+
+/*-- Inner Frames Contents --*/
+.content-frame {
+    background-color: rgb(6, 91, 157);
+    margin-top: 60px;
+    height: 1000px;
+    width: 50%;
+
+    display: flex;
+    justify-content: center;
+}
+
+
+/*-- Item Frame --*/
+.content-gradient {
+    background-color: #044679;
+
+    height: 98%;
+    width: 96%;
+    
+    display: flex;
+    align-items: flex-start;
+
+    margin-top: 8px;
+
+    border-radius: 15px;
+}

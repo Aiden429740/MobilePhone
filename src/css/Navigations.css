@@ -1,0 +1,53 @@
+/*-- Navigation --*/
+.navbar {
+    background-color: rgb(10, 122, 208);
+
+    height: 60px;
+    width: 100%;
+    position: fixed;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-logo {
+    width: 180px;
+    height: 30px;
+    padding-left: 15px;
+}
+
+.navbar-menu-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 280px;
+}
+.navbar-menu-button {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    background-color: #065B9D;
+
+    margin-right: 15px;
+
+    font-size: 0.85em;
+    height: 30px;
+    width: 45%;
+
+    border-radius: 7px;
+    border-bottom-right-radius: 50px;
+}
+.navbar-menu-button:hover {
+    background-color: rgb( 255, 140, 0);  
+}
+
+.navbar-account-buttons img {
+    width: 35px;
+    height: 35px;
+}
+.navbar-account-buttons {
+    padding-right: 15px;
+}

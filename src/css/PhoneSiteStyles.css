@@ -1,0 +1,134 @@
+.content-frame {
+    height: 1100px;
+}
+
+.content-frame {
+    width: 80%;
+}
+
+.content-gradient {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 97%;
+}
+
+
+.phone-content {
+    display: flex;
+    flex-direction: column;
+
+    margin-left: 25px;
+    padding-top: 15px;
+}
+.phoneImage {
+    height: 280px;
+    width: 155px;
+    padding: 0px;
+    margin: 0px;
+    align-self: center;
+}
+.phoneName {
+    align-self: flex-start;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+
+    font-size: 1.5em;
+    color: rgb(209, 209, 209);
+}
+
+.phonePrice {
+    align-self: flex-start;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+
+    padding-top: 1px;
+    font-size: 1.75em;
+    color: rgb(255, 255, 255);
+}
+
+
+.add-to-basket {
+    margin-top: 25px;
+    margin-right: 15px;
+    align-self: flex-start;
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+
+    font-size: 1.75em;
+    color: rgb(255, 255, 255);
+
+    background-color: rgb(255, 154, 31);
+}
+.add-to-basket:hover {
+    background-color: rgb(218, 126, 15);
+}
+.add-to-basket {
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 40px;
+
+    border-radius: 7px;
+}
+.add-to-basket a {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    align-self: center;
+    justify-self: center;
+    font-size: .8em;
+    
+    height: 70%;
+    width: 90%;
+}
+
+.phoneSpec {
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    color: rgb(255, 255, 255);
+
+    display: flex;
+    flex-direction: column;
+}
+
+iframe {
+    margin-top: 5px;
+    border-radius: 8px;
+    align-self: center;
+}
+
+table {
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 2px;
+}
+  
+
+@media only screen and (min-width: 1004px) {
+    .content-frame {
+        width: 70%;
+    }
+    iframe {
+        width: 400px;
+        height: 225px;
+    }
+}
+
+@media only screen and (min-width: 1190.4px) {
+    .content-frame {
+        width: 60%;
+    }
+    iframe {
+        width: 400px;
+        height: 220px;
+    }
+}

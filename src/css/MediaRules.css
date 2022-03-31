@@ -1,0 +1,57 @@
+/*-- Media Rules --*/
+@media only screen and (max-width: 1064px) {
+    .content-frame {
+        width: 60%;
+    }
+    .itemList {
+        grid-template-rows: repeat(3, 0.21fr);
+    }
+    .item .phoneName {
+        width: 120px;
+
+        padding-top: 3px;
+        font-size: 0.8em;
+    }
+}
+
+@media only screen and (max-width: 878px) {
+    .content-frame {
+        width: 65%;
+    }
+    .itemList {
+        grid-template-columns: repeat(3, 0.25fr);
+        grid-template-rows: repeat(3, 0.18fr);
+    }
+    .item .phoneName {
+        width: 150px;
+
+        padding-top: 3px;
+        font-size: 0.8em;
+    }
+}
+
+@media only screen and (max-width: 747px) {
+    .content-frame {
+        width: 70%;
+    }
+    .itemList {
+        grid-template-columns: repeat(3, 0.25fr);
+        grid-template-rows: repeat(3, 0.18fr);
+    }
+} 
+
+@media only screen and (max-width: 683.2px) {
+    .itemList {
+        grid-template-columns: repeat(2, 0.25fr);
+        grid-template-rows: repeat(2, 0.21fr);
+    }
+} 
+
+@media only screen and (max-width: 468.8px) {
+    .content-frame {
+        width: 80%;
+    }
+    .itemList {
+        justify-content: space-around;
+    }
+} 
