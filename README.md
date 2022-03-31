@@ -103,7 +103,7 @@ when you click on add to basket it sends you back to the top of the page
 
 The colour of the website is very unique however it is a good contrast in colours
 
-instead of using a menu button i would make ur loli (raxo.exe) clickable that takes you back to the main menu
+instead of using a menu button i would make ur [REDACTED] clickable that takes you back to the main menu
 
 The account and basket button do not work and arent even clickable i would make it so you can even if it doesnt lead anywhere
 
