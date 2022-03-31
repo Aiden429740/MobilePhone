@@ -70,35 +70,34 @@ Plan: When a phone page is on, there will be 3 random phones as recommended.
 | J |   |   |   |   |   |   |   |   |   |   |  ✗ |
 
 
-## Why i chose Design 1.
-It is a professional look with capturing the demographic we want. It looks clean and easy to navigate and the execution of the website was really well done.
+## Why I chose Design-1?
+It is a professional look with capturing the demographic we want. It looks clean and easy to navigate and the execution of the website was really well done. It was the cleanest of the two and the ease of access to most of the website in one place for all which is better for performance.
 
-##  Reviews
-
-### Ugniusmiel
+#  Reviews
+## Ugniusmiel
 
 the basket and the log in icons are not clickible at least make them clickible 
 
-most website have where if you click the logo it would send you back to the name manu so i suggest adding that aswell 
+most website have where if you click the logo it would send you back to the name manu so i suggest adding that aswell [Added, great feedback]
 
-alcatel 3v page is missing some text
+alcatel 3v page is missing some text [Missing text was on purpose]
 
 when you click on add to basket it sends you back to the top of the page
 
 
-### Dodgy Kid ADAM
+## Dodgy Kid ADAM
 
 The colour of the website is very unique however it is a good contrast in colours
 
-instead of using a menu button i would make ur [REDACTED] clickable that takes you back to the main menu
+instead of using a menu button i would make ur [REDACTED] clickable that takes you back to the main menu [Already added, thank you]
 
 The account and basket button do not work and arent even clickable i would make it so you can even if it doesnt lead anywhere
 
-You dont have the most recent phones here such as the samsung galaxy s22 you should add it king 
+You dont have the most recent phones here such as the samsung galaxy s22 you should add it king
 
 overall it is a very good website and it looks very pleasing pop off king 
 
 
-### levente 
+## Levente aka 21 boxes
 
 It is colorful however you should make the login and the basket button interactable, also try to add a few more phones, it would make your website much more colorful.
