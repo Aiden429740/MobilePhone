@@ -73,19 +73,6 @@ Plan: When a phone page is on, there will be 3 random phones as recommended.
 ## Why i chose Design 1.
 It is a professional look with capturing the demographic we want. It looks clean and easy to navigate and the execution of the website was really well done.
 
-
-
-
-
-
-
-*NOTE: ADD DIS SHIT ON GITHUB
-
-**NOTE: REMOVE THIS NOTE
-
-***NOTE: REMOVE ALL NOTES
-
-
 ##  Reviews
 
 ### Ugniusmiel
