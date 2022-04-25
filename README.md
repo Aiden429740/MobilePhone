@@ -55,19 +55,19 @@ Navigation will make the website easier to traverse as the user(s) go to product
 H = Entry point
 Plan: When a phone page is on, there will be 3 random phones as recommended.
 
-| x | H | SamsungG s21 | Xaomi-Mi 11 | Iphone 13 | PocoX3 | ALCATEL | REDMI | G | H | I | J |
+| x | H | SamsungG s21 | Xaomi-Mi 11 | Iphone 13 | PocoX3 | Alcatel3v | Redmi9 | G | H | I | J |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | H | 🗸  |   |   |   |   |   |   |   |   |   |   |
-| SamsungG s21 | 🗸  | ✗  |   |   |   |   |   |   |   |   |   |
-| Xaomi-Mi 11 |  🗸 |   | ✗  |   |   |   |   |   |   |   |   |
-| Apple Iphone 13 | 🗸  |   |   | ✗ |   |   |   |   |   |   |   |
-| PocoX3 | 🗸  |   |   |   | ✗ |   |   |   |   |   |   |
-| E |   |   |   |   |   | ✗ |   |   |   |   |   |
-| F |   |   |   |   |   |   | ✗  |   |   |   |   |
-| G |   |   |   |   |   |   |   | ✗  |   |   |   |
-| H |   |   |   |   |   |   |   |   |  ✗ |   |   |
-| I |   |   |   |   |   |   |   |   |   | ✗  |   |
-| J |   |   |   |   |   |   |   |   |   |   |  ✗ |
+| SamsungG s21 | 🗸  |   |   |   |   |   |   |   |   |   |   |
+| Xaomi-Mi 11 |  🗸 |   |   |   |   |   |   |   |   |   |   |
+| Apple Iphone 13 | 🗸  |   |   |  |   |   |   |   |   |   |   |
+| PocoX3 | 🗸  |   |   |   |  |   |   |   |   |   |   |
+| Redmi9 | 🗸 |   |   |   |   |  |   |   |   |   |   |
+| Iphone13 | 🗸  |   |   |   |   |   |   |   |   |   |   |
+| Alcatel3v | 🗸  |   |   |   |   |   |   |   |   |   |   |
+| H |   |   |   |   |   |   |   |   |   |   |   |
+| I |   |   |   |   |   |   |   |   |   |   |   |
+| J |   |   |   |   |   |   |   |   |   |   |   |
 
 
 ## Why I chose Design-1?
