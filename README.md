@@ -9,8 +9,6 @@
   * Easy to test
   * Efficiency.
 
-Document each step*
-
 ## Specifications:
 * Design
 * Color
@@ -73,10 +71,12 @@ Plan: When a phone page is on, there will be 3 random phones as recommended.
 ## Why I chose Design-1?
 It is a professional look with capturing the demographic we want. It looks clean and easy to navigate and the execution of the website was really well done. It was the cleanest of the two and the ease of access to most of the website in one place for all which is better for performance.
 
+# File Structure
+![Paletton](/src/img/FileStructure.png)
+
 #  Reviews
 ## Ugniusmiel
-
-the basket and the log in icons are not clickible at least make them clickible 
+the basket and the log in icons are not clickable at least make them clickable 
 
 most website have where if you click the logo it would send you back to the name manu so i suggest adding that aswell [Added, great feedback]
 
@@ -86,10 +86,9 @@ when you click on add to basket it sends you back to the top of the page
 
 
 ## Dodgy Kid ADAM
-
 The colour of the website is very unique however it is a good contrast in colours
 
-instead of using a menu button i would make ur [REDACTED] clickable that takes you back to the main menu [Already added, thank you]
+instead of using a menu button i would make ur [REDACTED] clickable that takes you back to the main menu
 
 The account and basket button do not work and arent even clickable i would make it so you can even if it doesnt lead anywhere
 
@@ -99,5 +98,13 @@ overall it is a very good website and it looks very pleasing pop off king
 
 
 ## Levente aka 21 boxes
-
 It is colorful however you should make the login and the basket button interactable, also try to add a few more phones, it would make your website much more colorful.
+
+# Suitablity
+This website is suitable for all audiences, it's nice and colourful to attract the viewers attention and layout is easy to follow and find specific products. It serves the purpose to purchase a brand new phone with ease and variety.
+
+# Timeline
+THe main page with products without information to be around the 10th of March, then this gives me until 20th to gather and put in information. I planned 8 phones so I made room for least 8 mobiles. I then planned to make a website template for mobiles, I expected the template process be be done by 8st of April. THe complete process is epected to be done by 1th of May ready for submition.
+
+# Strengths and Weaknesses
+The website is far from perfect and so it comes with weaknesses and some strengths. One of the weaknesses is the resolution, It doesn't work well with any other monitor size than 1920x1080p screens. On the other-hand it does have some visibility and readability strengths, in a browser you can enlarge the website and it helps with visibility issues. With considering the feedback I received, I know it the website it requires interactability and device support.
