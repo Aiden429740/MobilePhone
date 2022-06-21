@@ -96,9 +96,27 @@ You dont have the most recent phones here such as the samsung galaxy s22 you sho
 
 overall it is a very good website and it looks very pleasing pop off king 
 
-
 ## Levente aka 21 boxes
 It is colorful however you should make the login and the basket button interactable, also try to add a few more phones, it would make your website much more colorful.
+
+# What I've done
+I have taken the feedback and fixed missing text on the Alcatel 3V page, I was missing some screen specifications.
+The account and basket icons are now interactive, they feel more clickable rather than a still image.
+I added the Samsung Galaxy S22 as a product.
+I have made the Logo clickable and makes you go back to the main page with all the products.
+I added a few more phones after Levente's feedback, such as Iphones, Samsungs and Xiaomi's.
+
+# Testing
+I was tasked with testing the website and it's product phones to see if they are suitable for various browsers and devices.
+
+## Browser tests
+### Firefox
+![Firefox](/src/img/Testing/Browsers/Firefox_MainPage.png)
+### Chrome
+![Chrome](/src/img/Testing/Browsers/Chrome_MainPage.png)
+
+There is a big difference between these two pages, firstly is firefox is larger in height and breaks the product list.
+Chrome on the other hand is perfectly fitting and no errors in layout.
 
 # Suitablity
 This website is suitable for all audiences, it's nice and colourful to attract the viewers attention and layout is easy to follow and find specific products. It serves the purpose to purchase a brand new phone with ease and variety.
