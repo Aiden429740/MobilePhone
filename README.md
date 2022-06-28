@@ -154,6 +154,12 @@ The website is far from perfect and so it comes with weaknesses and some strengt
 | All Phone Specification information | https://www.gsmarena.com/                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Colour Paletton                     | https://paletton.com/                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
+# Evaluation
+I have tested my website to see it function well and meets all the standards of the customers and stakeholders. I have wrote down my opinions and thoughts that I think is good and bad about the website.
+
+The website is very nicely laid out, it a way it's easy to get products by scrolling but is a negative there is no search function for phones which could be added to improve the quality of life on the website. There is great interactivity implementation to anything that needs to "stand out" as such. All buttons had a nice glow or change of colour to indicate it can be clicked on. There is plenty of images to show off the product and even has a video of reviews or unboxing.
+
+
 # To be designed later
 * A recommended product line when on phone pages. More effectice at reaching more customers for their various needs of a phone.
 * Social media outlets. The company would reach a wider audience with social media with special discounts, offers and restock.
