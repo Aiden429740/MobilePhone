@@ -115,9 +115,9 @@ I added a few more phones after Levente's feedback, such as Iphones, Samsungs an
 I was tasked with testing the website and it's product phones to see if they are suitable for various browsers and devices.
 
 ## Browser tests
-### Firefox
+### Firefox v102.0
 ![Firefox](/src/img/Testing/Browsers/Firefox_MainPage.png)
-### Chrome
+### Chrome v103.0.5060.66
 ![Chrome](/src/img/Testing/Browsers/Chrome_MainPage.png)
 
 There is a big difference between these two pages, firstly is firefox is larger in height and breaks the product list.
