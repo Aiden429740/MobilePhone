@@ -118,12 +118,15 @@ I added a few more phones after Levente's feedback, such as Iphones, Samsungs an
 # Testing
 I was testing the website and it's product phones to see if they have met the user requirements.
 
-| Specification | Working Status |
-|---------------|----------------|
-| Links         | Yes            |
-| Interactivity | Yes            |
-| Images Load   | Yes, 100ms     |
-| Page Load     | 350ms          |
+| Specification | Working Status       |
+|---------------|----------------------|
+| Hyperlinks    | Yes                  |
+| Videos        | Yes, less than 500ms |
+| Interactivity | Yes                  |
+| Images Load   | Yes, less than 200ms |
+| Page Load     | Nearly instant       |
+
+As tested in Chrome v103, these tests met all the user requirements and have no issues loading or with time defects. Nothing takes any longer than 700ms to load which the user requirements states it is bad when it is over a second loading.
 
 ## Browser tests
 ### Firefox v102.0
