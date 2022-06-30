@@ -80,7 +80,7 @@ The main page with products without information to be around the 10th of March, 
 ![Paletton](/src/img/FileStructure.png)
 
 # Reviews
-## Ugniusmiel
+## Ugnius
 the basket and the log in icons are not clickable at least make them clickable
 
 most website have where if you click the logo it would send you back to the name manu so i suggest adding that aswell
@@ -90,7 +90,7 @@ alcatel 3v page is missing some text
 when you click on add to basket it sends you back to the top of the page
 
 
-## Dodgy Kid ADAM
+## Adam
 The colour of the website is very unique however it is a good contrast in colours
 
 instead of using a menu button i would make ur logo clickable that takes you back to the main menu
@@ -101,7 +101,7 @@ You dont have the most recent phones here such as the samsung galaxy s22 you sho
 
 overall it is a very good website and it looks very pleasing pop off king 
 
-## Levente aka 21 boxes
+## Levente
 It is colorful however you should make the login and the basket button interactable, also try to add a few more phones, it would make your website much more colorful.
 
 # What I've done with feedback
@@ -116,7 +116,14 @@ I added a few more phones after Levente's feedback, such as Iphones, Samsungs an
 * Added account and basket interactive and feel more like buttons.
 
 # Testing
-I was testing the website and it's product phones to see if they have met the requirements.
+I was testing the website and it's product phones to see if they have met the user requirements.
+
+| Specification | Working Status |
+|---------------|----------------|
+| Links         | Yes            |
+| Interactivity | Yes            |
+| Images Load   | Yes, 100ms     |
+| Page Load     | 350ms          |
 
 ## Browser tests
 ### Firefox v102.0
@@ -166,7 +173,9 @@ I have tested my website to see it function well and meets all the standards of 
 
 The website is very nicely laid out, it a way it's easy to get products by scrolling but is a negative there is no search function for phones which could be added to improve the quality of life on the website. There is great interactivity implementation to anything that needs to "stand out" as such. All buttons had a nice glow or change of colour to indicate it can be clicked on. There is plenty of images to show off the product and even has a video of reviews or unboxing.
 
-After testing I felt like V2 could use size tweaking for different monitor sizes and device compatibility. V2 could use basket functionality aswell as a checkout option for in-stock products.
+After testing I felt like V2 could use size tweaking for different monitor sizes and device compatibility. V2 could use basket functionality aswell as a checkout option for in-stock products. The visibility is perfect for the user requirements, it is very easy to read and easy to zoom in or out for the user. 
+
+The colour scheme is also suitable for visual disabilities as the user requirement asks of, it is not too hard on the eyes and is very nice against the colour white of the text. The layout is also simple to navigate, they are all within reach of one another so it isn't far to move for people with disabilities with the hands. There are many visually pleasing aspects for people who are easily frustrated or with OCD. Everything is rounded so it gives a smooth feel and relaxes the customer and meets the user requirements.
 
 
 # To be designed in V2 or later
