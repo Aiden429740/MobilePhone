@@ -74,7 +74,7 @@ It is a professional look with capturing the demographic we want. It looks clean
 What Design 1 has over Design 2 more ideal for it's eye-catching colours. It used more interesting colours than design 2. It keeps the attention of the viewers longer and makes the shopping experience more enjoyable. Design 2 is more vibrant and colours don't attract the same demographic due to it's lack of attraction 
 
 # Timeline
-The main page with products without information to be around the 10th of March, then this gives me until 20th to gather and put in information. I planned 8 phones so I made room for least 8 mobiles. I then planned to make a website template for mobiles, I expected the template process be be done by 8st of April. THe complete process is epected to be done by 1th of May ready for submition.
+The main page with products without information to be around the 10th of March, then this gives me until 20th to gather and put in information. I planned 8 phones so I made room for least 8 mobiles. I then planned to make a website template for mobiles, I expected the template process be be done by 8st of April. THe complete process is expected to be done by 20th of May ready for submition and gives a 2 - 4 days for feedback and make fixes.
 
 # File Structure
 ![Paletton](/src/img/FileStructure.png)
@@ -128,12 +128,12 @@ There is a big difference between these two pages, firstly is firefox is larger 
 Chrome on the other hand is perfectly fitting and no errors in layout.
 
 # Suitablity
-This website is suitable for all audiences, it's nice and colourful to attract the viewers attention and layout is easy to follow and find specific products. It serves the purpose to purchase a brand new phone with ease and variety.
+This website is suitable for all audiences, it's nice and colourful to attract the viewers attention and layout is easy to follow and find specific products. It serves the purpose to purchase a brand new phone with ease.
 
 # Strengths and Weaknesses
 Design 2 has many benefits like a working search bar which I would say it'll improve the user experience, a better viewing eperience and bigger nav bar for visibility. I would say this is a negative as I feel like it is over filled with options everywhere on screen, this is where Design 1 is better as it has less buttons in one page, this allows me to make it able to zoom in for visibility instead of having so much on screen at once. The placement of the search bar is also some-what awkward and in the way of products, which is bad when trying to search and the products load on the search bar. Design 2 has a bigger nav bar which creates a better viewing experience however, it fills too much on screen and shows less products which doesn't benefit the company when they need sales. Design 1 has nailed the layout sizes and proportions perfectly to fit enough phones in and have a minimal look on the nav bar.
 
-Design 1 wins because of the simplicity and minimalistic feel. Less on screen and more in focus where Design 2 is over filled with options creating a bad user experience and design 1 giving a better experience.
+Design 1 wins because of the simplicity and minimalistic feel. Less on screen and more in focus where Design 2 is crowded with options creating a bad user experience and design 1 giving a better experience.
 
 
 
@@ -166,11 +166,15 @@ I have tested my website to see it function well and meets all the standards of 
 
 The website is very nicely laid out, it a way it's easy to get products by scrolling but is a negative there is no search function for phones which could be added to improve the quality of life on the website. There is great interactivity implementation to anything that needs to "stand out" as such. All buttons had a nice glow or change of colour to indicate it can be clicked on. There is plenty of images to show off the product and even has a video of reviews or unboxing.
 
+After testing I felt like V2 could use size tweaking for different monitor sizes and device compatibility. V2 could use basket functionality aswell as a checkout option for in-stock products.
+
 
 # To be designed in V2 or later
 * A recommended product line when on phone pages. More effectice at reaching more customers for their various needs of a phone.
 * Social media outlets. The company would reach a wider audience with social media with special discounts, offers and restock.
 * More products. This would give the customer more variety and different phones may appeal to them for better need requirements.
-* File structure. The files are messy and need organising. the first version is messy with it's file structure and needs sorting in version 2.
+* File structure. The files are messy and need organising. the first version is messy with it's file structure and could use a massive structure upgrade in V2
 * A better search function. For customers who are after a specfiic mobile and wish to purchase it. 
 * Mobile Support. it is currently buggy on smaller screens which needs fixing when resizing. (V2)
+* Monitor size tweaks (V2), helps with products stay in focus.
+* Basket functionality (V3) for purchasabke products.
