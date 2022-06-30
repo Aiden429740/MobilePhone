@@ -126,7 +126,7 @@ I was testing the website and it's product phones to see if they have met the us
 | Images Load   | Yes, less than 200ms |
 | Page Load     | Nearly instant       |
 
-As tested in Chrome v103, these tests met all the user requirements and have no issues loading or with time defects. Nothing takes any longer than 700ms to load which the user requirements states it is bad when it is over a second loading.
+As tested in Chrome v103, these tests met all the user requirements and have no issues loading or with time defects. Nothing takes any longer than 700ms to load which the user requirements states it is bad when it is over a second loading. The images are fast and the page loading is almost instant. The videos and images render about half a second due to videos needing to communicate with Google & Youtube. Links go to the right place and none are missing their links for the pages.
 
 ## Browser tests
 ### Firefox v102.0
