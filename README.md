@@ -105,11 +105,15 @@ overall it is a very good website and it looks very pleasing pop off king
 It is colorful however you should make the login and the basket button interactable, also try to add a few more phones, it would make your website much more colorful.
 
 # What I've done with feedback
+
+## Improvements 1
 I have taken the feedback and fixed missing text on the Alcatel 3V page, I was missing some screen specifications.
-The account and basket icons are now interactive, they feel more clickable rather than a still image.
 I added the Samsung Galaxy S22 as a product.
 I have made the Logo clickable and makes you go back to the main page with all the products.
 I added a few more phones after Levente's feedback, such as Iphones, Samsungs and Xiaomi's.
+
+## Improvements 2
+* Added account and basket interactive and feel more like buttons.
 
 # Testing
 I was testing the website and it's product phones to see if they have met the requirements.
@@ -127,7 +131,10 @@ Chrome on the other hand is perfectly fitting and no errors in layout.
 This website is suitable for all audiences, it's nice and colourful to attract the viewers attention and layout is easy to follow and find specific products. It serves the purpose to purchase a brand new phone with ease and variety.
 
 # Strengths and Weaknesses
-The website is far from perfect and so it comes with weaknesses and some strengths. One of the weaknesses is the resolution, It doesn't work well with any other monitor size than 1920x1080p screens. On the other-hand it does have some visibility and readability strengths, in a browser you can enlarge the website and it helps with visibility issues. With considering the feedback I received, I know it the website it requires interactability and device support.
+Design 2 has many benefits like a working search bar which I would say it'll improve the user experience, a better viewing eperience and bigger nav bar for visibility. I would say this is a negative as I feel like it is over filled with options everywhere on screen, this is where Design 1 is better as it has less buttons in one page, this allows me to make it able to zoom in for visibility instead of having so much on screen at once. The placement of the search bar is also some-what awkward and in the way of products, which is bad when trying to search and the products load on the search bar. Design 2 has a bigger nav bar which creates a better viewing experience however, it fills too much on screen and shows less products which doesn't benefit the company when they need sales. Design 1 has nailed the layout sizes and proportions perfectly to fit enough phones in and have a minimal look on the nav bar.
+
+Design 1 wins because of the simplicity and minimalistic feel. Less on screen and more in focus where Design 2 is over filled with options creating a bad user experience and design 1 giving a better experience.
+
 
 
 # Sources
@@ -160,7 +167,7 @@ I have tested my website to see it function well and meets all the standards of 
 The website is very nicely laid out, it a way it's easy to get products by scrolling but is a negative there is no search function for phones which could be added to improve the quality of life on the website. There is great interactivity implementation to anything that needs to "stand out" as such. All buttons had a nice glow or change of colour to indicate it can be clicked on. There is plenty of images to show off the product and even has a video of reviews or unboxing.
 
 
-# To be designed later
+# To be designed in V2 or later
 * A recommended product line when on phone pages. More effectice at reaching more customers for their various needs of a phone.
 * Social media outlets. The company would reach a wider audience with social media with special discounts, offers and restock.
 * More products. This would give the customer more variety and different phones may appeal to them for better need requirements.
