@@ -55,7 +55,7 @@ Plan: When a phone page is on, there will be 3 random phones as recommended.
 
 | x | H | SamsungG s21 | Xaomi-Mi 11 | Iphone 13 | PocoX3 | Alcatel3v | Redmi9 | G | H | I | J |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| H | 🗸  |   |   |   |   |   |   |   |   |   |   |
+| H | 🗸  |  🗸 | 🗸  |  🗸 | 🗸  | 🗸  |  🗸 | 🗸  | 🗸  | 🗸  | 🗸  |
 | SamsungG s21 | 🗸  |   |   |   |   |   |   |   |   |   |   |
 | Xaomi-Mi 11 |  🗸 |   |   |   |   |   |   |   |   |   |   |
 | Apple Iphone 13 | 🗸  |   |   |  |   |   |   |   |   |   |   |
@@ -83,9 +83,9 @@ The main page with products without information to be around the 10th of March, 
 ## Ugniusmiel
 the basket and the log in icons are not clickable at least make them clickable
 
-most website have where if you click the logo it would send you back to the name manu so i suggest adding that aswell [Added, great feedback]
+most website have where if you click the logo it would send you back to the name manu so i suggest adding that aswell
 
-alcatel 3v page is missing some text [Missing text was on purpose]
+alcatel 3v page is missing some text
 
 when you click on add to basket it sends you back to the top of the page
 
@@ -112,7 +112,7 @@ I have made the Logo clickable and makes you go back to the main page with all t
 I added a few more phones after Levente's feedback, such as Iphones, Samsungs and Xiaomi's.
 
 # Testing
-I was tasked with testing the website and it's product phones to see if they are suitable for various browsers and devices.
+I was testing the website and it's product phones to see if they have met the requirements.
 
 ## Browser tests
 ### Firefox v102.0
@@ -165,5 +165,5 @@ The website is very nicely laid out, it a way it's easy to get products by scrol
 * Social media outlets. The company would reach a wider audience with social media with special discounts, offers and restock.
 * More products. This would give the customer more variety and different phones may appeal to them for better need requirements.
 * File structure. The files are messy and need organising. the first version is messy with it's file structure and needs sorting in version 2.
-* A better search function. For customers who are after a specfiic mobile and wish to purchase it.
-* Mobile Support. it is currently buggy on smaller screens which needs fixing when resizing.
+* A better search function. For customers who are after a specfiic mobile and wish to purchase it. 
+* Mobile Support. it is currently buggy on smaller screens which needs fixing when resizing. (V2)
