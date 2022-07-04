@@ -172,9 +172,6 @@ Design 1 wins because of the simplicity and minimalistic feel. Less on screen an
 | All Phone Specification information | https://www.gsmarena.com/                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Colour Paletton                     | https://paletton.com/                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
-# User Requirements
-* Easy to read
-* Loads fast
 
 # Evaluation
 The design is very close to the mockup design. There were minor and major changes during it's development like the logo being interactive and going back to the main page when clicked. One thing I changed is the phone page to accommodate the video and specifications that the user requirements stated. The size of the video was very big on each page so I made them smaller in size to fit flush with the specification table. The design ended up with Phone images and Buy button on the left column and video and specification table on the right column. I also made the video bezeled edges as it looks more neat. I didn't like the videos having sharp edges so I decided early on the bezeled style. This was not meant to be in the design but ended up being a feature.
