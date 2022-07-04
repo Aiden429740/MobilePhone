@@ -172,16 +172,20 @@ Design 1 wins because of the simplicity and minimalistic feel. Less on screen an
 | All Phone Specification information | https://www.gsmarena.com/                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Colour Paletton                     | https://paletton.com/                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
+# User Requirements
+* Easy to read
+* Loads fast
+
 # Evaluation
-I have tested my website to see it function well and meets all the standards of the customers and stakeholders. I have wrote down my opinions and thoughts that I think is good and bad about the website.
+The website is fit for the purposes and meets the stakeholders and user requirements. pages load very fast within a second to keep the attraction of users, if it's more than a second to load the attention drastically goes down and are more likely to click off the website. The majority of traffick is coming from videos as they are what people watch to know if a phone is good. The customers have a clear and easy understanding what specification and brand. The website is not hard to navigate and easy to get to the phone purchase page. To the owners the website, it looks very professional and most likely keeps the business and money coming in. The developers would be cheap as the coding for the website is fairly simple, time is money so this doesn't tank too much time. The website is very maintainable as the code is all organised and clean.
 
-The website is very nicely laid out, it a way it's easy to get products by scrolling but is a negative there is no search function for phones which could be added to improve the quality of life on the website. There is great interactivity implementation to anything that needs to "stand out" as such. All buttons had a nice glow or change of colour to indicate it can be clicked on. There is plenty of images to show off the product and even has a video of reviews or unboxing.
+Also, using the feedback from my peers, I had to change a few things from the original design, such as in Adam's feedback, he states that "Instead of using a menu button i would make your logo clickable that takes you back to the main menu." To solve this, I made it so the logo was able to take you back to the main menu page no matter what page you are in. As ugnius stated he mentioned the "alcatel 3v page is missing some text", so I went back to the phone page and personally asked ugnius which part was missing and he mentioned some specifications are missing, I went to GSMARENA for the specifications and added them into the page information. Levente mentioned I "should make the login and the basket button interactable", to fix that I made class of the buttons have an interactive glow when hovering over it with a transition.
 
-After testing I felt like V2 could use size tweaking for different monitor sizes and device compatibility. V2 could use basket functionality aswell as a checkout option for in-stock products. The visibility is perfect for the user requirements, it is very easy to read and easy to zoom in or out for the user. 
+
+## Things I would improvr on later.
+after testing I felt like V2 could use size tweaking for different monitor sizes and device compatibility. V2 could use basket functionality aswell as a checkout option for in-stock products. The visibility is perfect for the user requirements, it is very easy to read and easy to zoom in or out for the user. 
 
 The colour scheme is also suitable for visual disabilities as the user requirement asks of, it is not too hard on the eyes and is very nice against the colour white of the text. The layout is also simple to navigate, they are all within reach of one another so it isn't far to move for people with disabilities with the hands.
-
-I believe the website meets the stakeholders requirements, the website functions as imposed except purchasing which will be added later on, everything else works as intended (Nav bar, hyperlinks, videos, etc..), the colour scheme also meets the stakeholders requirements as it contains a varying colour constrasts but doesn't utilise many other colours.
 
 
 # To be designed in V2 or later
