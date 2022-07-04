@@ -80,53 +80,54 @@ The main page with products without information to be around the 10th of March, 
 ![Paletton](/src/img/FileStructure.png)
 
 # Reviews
+##### REVIEWS WERE WRITTEN BY THE PERSON BY HAND.
 ## Ugnius
 the basket and the log in icons are not clickable at least make them clickable
-
 most website have where if you click the logo it would send you back to the name manu so i suggest adding that aswell
-
 alcatel 3v page is missing some text
-
 when you click on add to basket it sends you back to the top of the page
 
 
 ## Adam
-The colour of the website is very unique however it is a good contrast in colours
-
-instead of using a menu button i would make ur logo clickable that takes you back to the main menu
-
-The account and basket button do not work and arent even clickable i would make it so you can even if it doesnt lead anywhere
-
+The colour of the website is very unique however it is a good contrast in colours. instead of using a menu button i would make ur logo clickable that takes you back to the main menu. The account and basket button do not work and arent even clickable i would make it so you can even if it doesnt lead anywhere
 You dont have the most recent phones here such as the samsung galaxy s22 you should add it king
-
 overall it is a very good website and it looks very pleasing pop off king 
 
 ## Levente
 It is colorful however you should make the login and the basket button interactable, also try to add a few more phones, it would make your website much more colorful.
 
 # What I've done with feedback
-
+The first lot of feedback, Levente suggested more products so I added a few more as he mentions. Adam & Ugnius suggested the logo to be clickable so I made that in Improvement 1.
 ## Improvements 1
-I have taken the feedback and fixed missing text on the Alcatel 3V page, I was missing some screen specifications.
-I added the Samsung Galaxy S22 as a product.
-I have made the Logo clickable and makes you go back to the main page with all the products.
-I added a few more phones after Levente's feedback, such as Iphones, Samsungs and Xiaomi's.
+* Added missing phone specifications on the Alcatel v3 page
+* Added Samsung Galaxy S22 as a product.
+* Made the logo clickable to lead to the main page / home page.
+* Added a few more phones (iPhone 13, Redmi note 9 and Mi 11)
 
+In the next improvement I took some more feedback and made the account buttons feel more interactive as Levente mentions.
 ## Improvements 2
 * Added account and basket interactive and feel more like buttons.
+* Fixed the product page sizes going too small
+* I did not make the basket go to the top due to the page bugging out.
+
+## Final Improvement
+All 3 reviewers mentions the same things, and after the first feedback they didn't have much else to say. I did not include some colour changes as I think in my opinion the colour suits the stakeholders requirements. I did not remove the menu button as Adam as mentioned to use the Logo instead, as the user requirements needs clear indication on how to get back to the first page.
 
 # Testing
 I was testing the website and it's product phones to see if they have met the user requirements.
 
-| Specification | Working Status       |
-|---------------|----------------------|
-| Hyperlinks    | Yes                  |
-| Videos        | Yes, less than 500ms |
-| Interactivity | Yes                  |
-| Images Load   | Yes, less than 200ms |
-| Page Load     | Nearly instant       |
+| Specification   | Working Status                                                                    |
+|-----------------|-----------------------------------------------------------------------------------|
+| Hyperlinks      | Yes, all work as intended and go to the correct link                              |
+| Videos          | Yes, loads in within half a second                                                |
+| Interactivity   | Yes, all interactables are functioning as intended (buttons, videos, images, etc) |
+| Images Load     | Yes, loads within half a second                                                   |
+| Page Load       | Practically instant                                                               |
+| Page texts      | Text loads as intended and doesn't overfiill (going outside the intended box)     |
+| CSS (all pages) | All CSS works and functions as intended to apply all styles for the page.         |
+| Navigation bar  | Loads and functions as intended, takes less than 300ms to load.                   |
 
-As tested in Chrome v103, these tests met all the user requirements and have no issues loading or with time defects. Nothing takes any longer than 700ms to load which the user requirements states it is bad when it is over a second loading. The images are fast and the page loading is almost instant. The videos and images render about half a second due to videos needing to communicate with Google & Youtube. Links go to the right place and none are missing their links for the pages.
+As tested in Chrome v103, these tests met all the stakeholders requirements and have no issues loading or with time defects. Nothing takes any longer than 700ms to load which the stakeholders requirements states it is bad when it is over a second loading. The images are fast and the page loading is almost instant. The videos and images render about half a second due to videos needing to communicate with Google & Youtube. Links go to the right place and none are missing their links for the pages.
 
 ## Browser tests
 ### Firefox v102.0
@@ -178,7 +179,9 @@ The website is very nicely laid out, it a way it's easy to get products by scrol
 
 After testing I felt like V2 could use size tweaking for different monitor sizes and device compatibility. V2 could use basket functionality aswell as a checkout option for in-stock products. The visibility is perfect for the user requirements, it is very easy to read and easy to zoom in or out for the user. 
 
-The colour scheme is also suitable for visual disabilities as the user requirement asks of, it is not too hard on the eyes and is very nice against the colour white of the text. The layout is also simple to navigate, they are all within reach of one another so it isn't far to move for people with disabilities with the hands. There are many visually pleasing aspects for people who are easily frustrated or with OCD. Everything is rounded so it gives a smooth feel and relaxes the customer and meets the user requirements.
+The colour scheme is also suitable for visual disabilities as the user requirement asks of, it is not too hard on the eyes and is very nice against the colour white of the text. The layout is also simple to navigate, they are all within reach of one another so it isn't far to move for people with disabilities with the hands.
+
+I believe the website meets the stakeholders requirements, the website functions as imposed except purchasing which will be added later on, everything else works as intended (Nav bar, hyperlinks, videos, etc..), the colour scheme also meets the stakeholders requirements as it contains a varying colour constrasts but doesn't utilise many other colours.
 
 
 # To be designed in V2 or later
