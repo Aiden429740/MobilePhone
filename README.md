@@ -177,18 +177,22 @@ Design 1 wins because of the simplicity and minimalistic feel. Less on screen an
 * Loads fast
 
 # Evaluation
-The website is fit for the purposes and meets the stakeholders and user requirements. pages load very fast within a second to keep the attraction of users, if it's more than a second to load the attention drastically goes down and are more likely to click off the website. The majority of traffick is coming from videos as they are what people watch to know if a phone is good. The customers have a clear and easy understanding what specification and brand. The website is not hard to navigate and easy to get to the phone purchase page. To the owners the website, it looks very professional and most likely keeps the business and money coming in. The developers would be cheap as the coding for the website is fairly simple, time is money so this doesn't tank too much time. The website is very maintainable as the code is all organised and clean.
+The design is very close to the mockup design. There were minor and major changes during it's development like the logo being interactive and going back to the main page when clicked. One thing I changed is the phone page to accommodate the video and specifications that the user requirements stated. The size of the video was very big on each page so I made them smaller in size to fit flush with the specification table. The design ended up with Phone images and Buy button on the left column and video and specification table on the right column. I also made the video bezeled edges as it looks more neat. I didn't like the videos having sharp edges so I decided early on the bezeled style
 
-Also, using the feedback from my peers, I had to change a few things from the original design, such as in Adam's feedback, he states that "Instead of using a menu button i would make your logo clickable that takes you back to the main menu." To solve this, I made it so the logo was able to take you back to the main menu page no matter what page you are in. As ugnius stated he mentioned the "alcatel 3v page is missing some text", so I went back to the phone page and personally asked ugnius which part was missing and he mentioned some specifications are missing, I went to GSMARENA for the specifications and added them into the page information. Levente mentioned I "should make the login and the basket button interactable", to fix that I made class of the buttons have an interactive glow when hovering over it with a transition.
+The website is fit for the purposes and meets the stakeholders and user requirements. pages load very fast within a second to keep the attraction of users, if it's more than a second to load the attention drastically goes down and are more likely to click off the website. The majority of traffick is coming from videos as they are what people watch to know if a phone is good. The customers have a clear and easy understanding what specification and brand. The website is not hard to navigate and easy to get to the phone purchase page. To the owners the website, it looks very professional and most likely keeps the business and money coming in. The developers would be cheap as the coding for the website is fairly simple, time is money so this doesn't tank too much time. The website is very maintainable as the code is all organised and clean. 
+
+Also, using the feedback from my peers, I had to change a few things from the original design, such as in Adam's feedback, he states that "instead of using a menu button i would make your logo clickable that takes you back to the main menu." To solve this, I made it so the logo was able to take you back to the main menu page no matter what page you are in. As ugnius stated he mentioned the "alcatel 3v page is missing some text", so I went back to the phone page and personally asked ugnius which part was missing and he mentioned some specifications are missing, I went to GSMARENA for the specifications and added them into the page information. Levente mentioned I "should make the login and the basket button interactable", to fix that I made class of the buttons have an interactive glow when hovering over it with a transition. I later asked the feedback again and they preffered this version over the previous as it was much more versatile like you can click the logo to go back to the main page.
 
 
-## Things I would improvr on later.
+## Things I would improve on later.
 after testing I felt like V2 could use size tweaking for different monitor sizes and device compatibility. V2 could use basket functionality aswell as a checkout option for in-stock products. The visibility is perfect for the user requirements, it is very easy to read and easy to zoom in or out for the user. 
 
-The colour scheme is also suitable for visual disabilities as the user requirement asks of, it is not too hard on the eyes and is very nice against the colour white of the text. The layout is also simple to navigate, they are all within reach of one another so it isn't far to move for people with disabilities with the hands.
+The colour scheme could be improved as it is very brightly coloured. Personally, I think this could be improved better before commercial available.
+
+Better specification table. Designed along-side the original plan to accommodate the sizes and positions for the user to have a better viewing experience.
 
 
-# To be designed in V2 or later
+# To be designed in V2 or later versions
 * A recommended product line when on phone pages. More effectice at reaching more customers for their various needs of a phone.
 * Social media outlets. The company would reach a wider audience with social media with special discounts, offers and restock.
 * More products. This would give the customer more variety and different phones may appeal to them for better need requirements.
@@ -197,3 +201,4 @@ The colour scheme is also suitable for visual disabilities as the user requireme
 * Mobile Support. it is currently buggy on smaller screens which needs fixing when resizing. (V2)
 * Monitor size tweaks (V2), helps with products stay in focus.
 * Basket functionality (V3) for purchasabke products.
+* A deals page with daily deals and sales, better for business.
